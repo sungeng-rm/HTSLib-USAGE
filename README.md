@@ -1,1 +1,1 @@
-# Depth-Calculate
+# Gene Sequencing Depth Calculation
